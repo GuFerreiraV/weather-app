@@ -44,10 +44,6 @@
 - Adicione sua chave de API no arquivo de configuração (appsettings.json ou similar), caso necessário.
 - Certifique-se de ter o .NET instalado em sua máquina ([download](https://dotnet.microsoft.com/download)).
 
-## 📸 Demonstração
-
-(Adicione aqui imagens ou GIFs do funcionamento da aplicação, se possível)
-
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
