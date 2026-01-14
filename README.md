@@ -43,15 +43,3 @@
 
 - Adicione sua chave de API no arquivo de configuração (appsettings.json ou similar), caso necessário.
 - Certifique-se de ter o .NET instalado em sua máquina ([download](https://dotnet.microsoft.com/download)).
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Desenvolvido por [GuFerreiraV](https://github.com/GuFerreiraV) 🚀
